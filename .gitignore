@@ -53,3 +53,11 @@ dkms.conf
 
 #EDC automatocally generated file
 /*.vscode
+
+
+###some .txt
+#C
+maze_game/**/maze_map.txt
+
+
+#python
