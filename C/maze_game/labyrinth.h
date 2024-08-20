@@ -9,7 +9,7 @@
 
 #define TIME_SPEED (500UL)
 
-const char *MAP_PATH = "F:\\C\\test\\maze_game\\maze_map.txt";
+const char *MAP_PATH = "maze_map.txt";
 unsigned int **MAP;
 typedef struct {
     unsigned int Length;

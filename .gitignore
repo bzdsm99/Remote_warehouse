@@ -57,7 +57,7 @@ dkms.conf
 
 ###some .txt
 #C
-maze_game/**/maze_map.txt
+C/maze_game/**/maze_map.txt
 
 
 #python
